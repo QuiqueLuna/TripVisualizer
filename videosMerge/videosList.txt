@@ -1,0 +1,8 @@
+file ../videosMerge/Map.mkv
+file ../videosMerge/cerro.mkv
+file ../videosMerge/guitar.mkv
+file ../videosMerge/rubik.mkv
+file ../videosMerge/plant.mkv
+file ../videosMerge/flowers.mkv
+file ../videosMerge/cuarto.mkv
+file ../videosMerge/MapManyLocations.mkv
